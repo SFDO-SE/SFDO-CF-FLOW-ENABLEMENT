@@ -3,7 +3,7 @@
   "adminEmail": "jrymph+flowenablement22@salesforce.com",
   "description": "SFDO Flow Enablement Campfire",
   "features": ["EnableSetPasswordInApi"],
-  "template": "0TT4x00000ASR1c",
+  "template": "0TT4x00000ATZZ9",
   "settings": {
     "lightningExperienceSettings": {
       "enableS1DesktopEnabled": true
